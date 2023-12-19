@@ -2,7 +2,7 @@
 - A man somewhere from The Netherlands
 - I’m currently learning Web Development & Flutter/ Dart at a college also somewhere in The Netherlands
 - Love to play games like Team Fortress 2 & Minecraft and make renders/ wallpapers for it
-- Founder, Owner & Developer of the @Multiverze of SMPs & @CAVESMP
+- Founder, Owner & Developer of the Multiverze of SMPs & CAVESMP
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ggcreeperxd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ggcreeperxd) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ggcreepsterxd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ggcreeperxd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ggcreeperxd)
 ## Tech Stack:
