@@ -1,7 +1,6 @@
 # About Me:
 - Somewhere from The Netherlands...!
-- Know a lot about HTML, CSS & some JavaScript and Vue, but learning/ want to learn PHP, Databases, Flutter/ Dart, Java (for Minecraft Mod Development) & React
-- Love to play games like Team Fortress 2 & Minecraft and make renders & wallpapers for it. Maybe even animations soon in the future
+- Following a course of Software Development of some random college also somewhere in The Netherlands
 - Founder of & Developer for the Multiverze of SMPs & CAVESMP
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ggcreeperxd)
