@@ -9,11 +9,18 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ggcreeperxd)
 ## Tech Stack:
 ### Somewhat Comfortable With
-[![Somewhat comfortable with](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,php,mysql,nodejs,npm,github,bootstrap)]()
+[![Somewhat comfortable with](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,php,mysql,nodejs,npm,bootstrap)]()
 ### Currently/ still learning
-[![Currently/ still learning](https://skillicons.dev/icons?i=flutter,dart,laravel,react,js,vue,vuetify,php,mysql,nodejs,npm,github,firebase,discordjs)]()
+[![Currently/ still learning](https://skillicons.dev/icons?i=flutter,dart,laravel,react,js,vue,vuetify,php,mysql,nodejs,npm,discordjs,bootstrap)]()
 ### Want to learn
 [![Want to learn](https://skillicons.dev/icons?i=kotlin,tailwind,java)]() (Java for Minecraft modding only)
+## Tools/ Programs Stack
+### Somewhat Comfortable With
+[![Somewhat comfortable with](https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,github,figma,xd,notion,cloudflare,postman,wordpress)]()
+### Currently/ still learning to use
+[![Currently learning to use](https://skillicons.dev/icons?i=figma,github,notion,cloudflare,postman,firebase)]()
+### Want to use in the future
+[![Want to use in the future](https://skillicons.dev/icons?i=idea,gcp,androidstudio)]()
 ## Gaming Stack
 ### My loved/ most played:
 <a href="https://teamfortress.com"><img style="width:50px;height:50px;" src="https://github.com/GGCreeperXD/ggcreeperxd/blob/main/assets/team-fortress.svg" alt="Team Fortress 2"></a>
