@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ggcreeperxd)
 ## Tech Stack
 ### Somewhat Comfortable With
-[![Somewhat comfortable with](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,php,mysql,nodejs,npm,bootstrap,obsidian,react)]()
+[![Somewhat comfortable with](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,php,mysql,nodejs,npm,bootstrap,obsidian,react,flutter,dart)]()
 ### Currently/ still learning
 [![Currently/ still learning](https://skillicons.dev/icons?i=flutter,dart,laravel,react,js,vue,vuetify,php,mysql,nodejs,npm,discordjs,bootstrap,obsidian,tailwind)]()
 ### Want to learn
